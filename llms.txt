@@ -1,0 +1,9 @@
+# NXLINK Website (Test)
+
+> NXLINK unifies customer conversations across channels with an AI-powered contact center built for enterprise teams.
+
+## Content
+
+- [NXAI Group Cookie Policy](https://ppoops.github.io/test-nxlink/cookie-policy): This Cookie Policy explains how NXCLOUD ASIA PTE. LTD., GLORY COMMUNICATIONS PTE. LTD., NX COMMUNICATIONS PTE. LTD., GLORY TECHNOLOGY (H.K) GROUP LIMITED, NXCLOUD B.V., and CONG TY TNHH NXCLOUD COMMUNICATIONS (together, "NXAI", "we", "us", or "our") uses Cookie in connection with our Website and all products and services that contain or refer to this Cookie Policy (collectively "Services").
+- [NXAI Group Privacy Policy](https://ppoops.github.io/test-nxlink/privacy-policy): NXAI takes the protection of your personal data seriously. We are a Singapore-headquartered communications cloud provider serving customers around the world, and we provide privacy safeguards and rights consistent with the law of the country/region where you are located. This Policy explains how we collect, use, share, and protect personal data in connection with the NXCLOUD and NXLINK Services. We encourage you to read this Policy in full, together with the Annex applicable to your location.
+- [NXAI Group Terms of Service](https://ppoops.github.io/test-nxlink/terms-services): Thank you for choosing NXCLOUD and NXLINK, services of the NXAI group. NXAI is a Singapore-headquartered communications cloud provider serving enterprise customers around the world, committed to delivering secure, compliant, and reliable communications infrastructure and solutions globally. These Terms of Service govern your registration, access, and use of the NXCLOUD and NXLINK Services and form a legally binding agreement between you and NXAI. Please read these Terms in full, including the product-specific terms in Part II and Part III that apply to the product(s) you use, before using the Services.
